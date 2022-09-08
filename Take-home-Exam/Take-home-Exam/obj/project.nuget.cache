@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8RqGuL6Wj3Nq9xHpX6jdpv1cIXYECSkk9X7Mnd26hRLl8NuZH9VvnyigHK06La2WtHajAm0HXOoKiLQoy8R6KQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JadelMasirag\\source\\repos\\Take-home-Exam\\Take-home-Exam\\Take-home-Exam.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JadelMasirag\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

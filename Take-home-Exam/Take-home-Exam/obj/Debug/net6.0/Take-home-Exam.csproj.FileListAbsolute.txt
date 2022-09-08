@@ -1,0 +1,17 @@
+C:\Users\JadelMasirag\source\repos\Take-home-Exam\Take-home-Exam\bin\Debug\net6.0\Take-home-Exam.exe
+C:\Users\JadelMasirag\source\repos\Take-home-Exam\Take-home-Exam\bin\Debug\net6.0\Take-home-Exam.deps.json
+C:\Users\JadelMasirag\source\repos\Take-home-Exam\Take-home-Exam\bin\Debug\net6.0\Take-home-Exam.runtimeconfig.json
+C:\Users\JadelMasirag\source\repos\Take-home-Exam\Take-home-Exam\bin\Debug\net6.0\Take-home-Exam.dll
+C:\Users\JadelMasirag\source\repos\Take-home-Exam\Take-home-Exam\bin\Debug\net6.0\Take-home-Exam.pdb
+C:\Users\JadelMasirag\source\repos\Take-home-Exam\Take-home-Exam\obj\Debug\net6.0\Take-home-Exam.csproj.AssemblyReference.cache
+C:\Users\JadelMasirag\source\repos\Take-home-Exam\Take-home-Exam\obj\Debug\net6.0\Take-home-Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JadelMasirag\source\repos\Take-home-Exam\Take-home-Exam\obj\Debug\net6.0\Take-home-Exam.AssemblyInfoInputs.cache
+C:\Users\JadelMasirag\source\repos\Take-home-Exam\Take-home-Exam\obj\Debug\net6.0\Take-home-Exam.AssemblyInfo.cs
+C:\Users\JadelMasirag\source\repos\Take-home-Exam\Take-home-Exam\obj\Debug\net6.0\Take-home-Exam.csproj.CoreCompileInputs.cache
+C:\Users\JadelMasirag\source\repos\Take-home-Exam\Take-home-Exam\obj\Debug\net6.0\Take-home-Exam.dll
+C:\Users\JadelMasirag\source\repos\Take-home-Exam\Take-home-Exam\obj\Debug\net6.0\refint\Take-home-Exam.dll
+C:\Users\JadelMasirag\source\repos\Take-home-Exam\Take-home-Exam\obj\Debug\net6.0\Take-home-Exam.pdb
+C:\Users\JadelMasirag\source\repos\Take-home-Exam\Take-home-Exam\obj\Debug\net6.0\Take-home-Exam.genruntimeconfig.cache
+C:\Users\JadelMasirag\source\repos\Take-home-Exam\Take-home-Exam\obj\Debug\net6.0\ref\Take-home-Exam.dll
+C:\Users\JadelMasirag\source\repos\Take-home-Exam\Take-home-Exam\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\JadelMasirag\source\repos\Take-home-Exam\Take-home-Exam\obj\Debug\net6.0\Take-home-Exam.csproj.CopyComplete
